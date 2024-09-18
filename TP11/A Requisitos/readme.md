@@ -4,9 +4,7 @@
 - Familiarizarse con las tecnologías de los módulos de comunicación incorporados en el ESP32.
 - Conocer las librerías asociadas a cada modulo de comunicación para el ESP32 incluidas en el framework Arduino.
 
-Realizar los siguientes ejercicios según se solicita a continuación, dejar los
-registros de desarrollo en el repositorio personal de la materia, con la estructura
-ABP de trabajo habitual.
+Realizar los siguientes ejercicios según se solicita a continuación, dejar los registros de desarrollo en el repositorio personal de la materia, con la estructura ABP de trabajo habitual.
 
 ## Serie de Prácticas Wi-Fi con el ESP32
 
